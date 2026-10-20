@@ -14,7 +14,7 @@
 trigger:
   branches:
     include:
-      - capstone/theepicbook-docker
+      - Epicbook-Container-Production
   paths:
     include:
       - backend
